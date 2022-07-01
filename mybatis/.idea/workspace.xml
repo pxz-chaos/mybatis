@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c3976b-96a6-411b-adb4-e5cc4099a915" name="Changes" comment="" />
+    <list default="true" id="07c3976b-96a6-411b-adb4-e5cc4099a915" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/peixin/Dao.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="origin/master" />
@@ -27,7 +38,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2BKCVJ3fPPdpArGgWbOsJxrZChE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656645413757</updated>
-      <workItem from="1656645417568" duration="3560000" />
+      <workItem from="1656645417568" duration="4252000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1656645866587</created>
@@ -84,7 +97,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656659159117</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1656659633629</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656659633629</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1656659877857</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656659877857</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1656659999597</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656659999597</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

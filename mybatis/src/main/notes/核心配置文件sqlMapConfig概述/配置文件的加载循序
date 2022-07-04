@@ -1,0 +1,12 @@
+The content of element type "configuration" must match
+"(properties?
+,settings?
+,typeAliases?
+,typeHandlers?
+,objectFactory?
+,objectWrapperFactory?
+,reflectorFactory?
+,plugins?
+,environments?
+,databaseIdProvider?
+,mappers?)".

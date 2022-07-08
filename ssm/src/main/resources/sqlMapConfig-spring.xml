@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+
+    <!--定义别名-->
+    <typeAliases>
+       <!-- <typeAlias type="com.peixin.domain.Account" alias="account"/>-->
+        <!--会将实体类的所有类名首字母小写-->
+        <package name="com.peixin.domain"/>
+    </typeAliases>
+
+
+</configuration>
